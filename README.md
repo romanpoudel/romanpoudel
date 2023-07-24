@@ -4,6 +4,5 @@
 - 🌱 I’m a passonate React/Next JS developer.
 - 👯 I’m looking for a role as a frontend dev.
 - 🤔 I’m looking for help with landing a job.
-- 💬 Ask me about ...
 - 📫 You can reach me through socials in my profile description.
 
