@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **romanpoudel325@gmail.com**
+- 📫 Email me at **romanpoudel325@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
