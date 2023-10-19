@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="romanpoudel" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://romanpoudel.github.io/prot/](https://romanpoudel.github.io/prot/)
+- 👨‍💻 My protfolio website is available at [https://romanpoudel.github.io/prot/](https://romanpoudel.github.io/prot/)
 
 - 💬 Ask me about **React**
 
